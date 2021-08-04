@@ -1,0 +1,2 @@
+rootProject.name = "CD3"
+include ':app'
